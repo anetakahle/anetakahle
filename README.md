@@ -1,5 +1,5 @@
 
-<img width="700" height="1082" alt="image" src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" />
+<img width="350" height="541" alt="image" src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" />
 
 <!--
 **anetakahle/anetakahle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
