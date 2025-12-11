@@ -1,8 +1,10 @@
-## Hi there 👋
+
+<img width="700" height="1082" alt="image" src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" />
 
 <!--
 **anetakahle/anetakahle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img width="700" height="1082" alt="image" src="https://github.com/user-attachments/assets/38c93e33-4dc1-401c-a208-6c1468089bdd" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
