@@ -72,6 +72,21 @@ I primarily work on enterprise-grade private repositories (projects like *Compli
 
 ---
 
+
+### ⚡ Life Away From Keyboard
+When I'm not orchestrating AI agents, I focus on creativity and balance:
+
+*   🎨 **Visual Arts & Design** – My creative outlet. I have a **keen eye for aesthetics**, whether it's **fashion**, **interior design**, or **digital art**.
+*   🤿 **Scuba Diving** – Exploring the depths of the ocean to find calm in the chaos.
+*   🏋️‍♀️ **CrossFit & Running** – Building endurance and clearing the mental cache.
+*   🧘‍♀️ **Mindfulness** – Meditation and continuous self-development.
+
+---
+
+Tato verze říká: *"Baví mě to, mám pro to cit a dělám to pro radost,"* což je přesně ten message, který chceš předat. Můžeš to tam rovnou vložit.
+
+---
+
 ### 👤 Contact & Socials
 
 <p align="left">
