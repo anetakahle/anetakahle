@@ -1,24 +1,12 @@
 
-<img width="350" height="541" alt="image" src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" />
 
-<img width="490" height="541" alt="image" src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" />
+<!-- Header Images - Centered and Aligned Side-by-Side -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="380" alt="Profile Visual 1" />
+  <img src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" height="380" alt="Profile Visual 2" />
+</div>
 
-
-<!--
-**anetakahle/anetakahle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img width="700" height="1082" alt="image" src="https://github.com/user-attachments/assets/38c93e33-4dc1-401c-a208-6c1468089bdd" />
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
 
 # Hi, I'm Aneta! 👋
