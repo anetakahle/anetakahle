@@ -65,13 +65,13 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 ### 🚀 Professional Focus
 I primarily work on enterprise-grade private repositories (projects like *ComplianceAI*, *SQL Agents*, *Knowledge Bots*). My core expertise includes:
 
-*   **Agentic Orchestration:** Designing autonomous systems where AI agents interact, plan, and execute tasks using **LLMtornado** and modern orchestration patterns in .NET.
-*   **Data Analysis & Automation:** I love automating the boring stuff. I use **Playwright** for robust web scraping and **Pandas/Spark** to clean, analyze, and visualize large datasets.
-*   **Context Engineering & RAG:** Building precision-focused retrieval pipelines that feed the right data into LLMs for corporate use cases.
-*   **Full-stack Engineering:** Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
+*  ⚡ **Agentic Orchestration:** Designing autonomous systems where AI agents interact, plan, and execute tasks using **LLMtornado** and modern orchestration patterns in .NET.
+*  🌱 **Data Analysis & Automation:** I love automating the boring stuff. I use **Playwright** for robust web scraping and **Pandas/Spark** to clean, analyze, and visualize large datasets.
+*  🔭 **Context Engineering & RAG:** Building precision-focused retrieval pipelines that feed the right data into LLMs for corporate use cases.
+*  ✨ **Full-stack Engineering:** Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
 
 ---
 
-### 📫 Contact
+### 👤 Contact
 * [LinkedIn](https://www.linkedin.com/in/aneta-kahle/)
 * [Email](mailto:aneta.kahleova@gmail.com)
