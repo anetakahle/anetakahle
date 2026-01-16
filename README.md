@@ -1,5 +1,3 @@
-
-
 <!-- Header Images - Centered and Aligned Side-by-Side -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="380" alt="Profile Visual 1" />
@@ -7,7 +5,6 @@
 </div>
 
 <br />
-
 
 # Hi, I'm Aneta! 👋
 
@@ -60,55 +57,74 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+<br />
 
-### 🚀 Professional Focus
-I primarily work on enterprise-grade private repositories (projects like *ComplianceAI*, *SQL Agents*, *Knowledge Bots*). My core expertise includes:
+<!-- Professional Focus Box -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🚀 Professional Focus</h3>
+      I primarily work on enterprise-grade private repositories (projects like <i>ComplianceAI</i>, <i>SQL Agents</i>, <i>Knowledge Bots</i>). My core expertise includes:
+      <br /><br />
+      <ul>
+        <li>⚡ <b>Agentic Orchestration:</b> Designing autonomous systems where AI agents interact, plan, and execute tasks using <b>LLMtornado</b> and modern orchestration patterns in .NET.</li>
+        <li>🌱 <b>Data Analysis & Automation:</b> I love automating the boring stuff. I use <b>Playwright</b> for robust web scraping and <b>Pandas/Spark</b> to clean, analyze, and visualize large datasets.</li>
+        <li>🔭 <b>Context Engineering & RAG:</b> Building precision-focused retrieval pipelines that feed the right data into LLMs for corporate use cases.</li>
+        <li>✨ <b>Full-stack Engineering:</b> Delivering end-to-end solutions in <b>C#/.NET</b> combined with <b>TypeScript/React</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-*  ⚡ **Agentic Orchestration:** Designing autonomous systems where AI agents interact, plan, and execute tasks using **LLMtornado** and modern orchestration patterns in .NET.
-*  🌱 **Data Analysis & Automation:** I love automating the boring stuff. I use **Playwright** for robust web scraping and **Pandas/Spark** to clean, analyze, and visualize large datasets.
-*  🔭 **Context Engineering & RAG:** Building precision-focused retrieval pipelines that feed the right data into LLMs for corporate use cases.
-*  ✨ **Full-stack Engineering:** Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
+<br />
 
----
+<!-- Interests Box -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>⚡ Life Away From Keyboard</h3>
+      When I'm not orchestrating AI agents, I focus on creativity and balance:
+      <br /><br />
+      <ul>
+        <li>🎨 <b>Visual Arts & Design</b> – My creative outlet. I have a <b>keen eye for aesthetics</b>, whether it's <b>fashion</b>, <b>interior design</b>, or <b>digital art</b>.</li>
+        <li>🤿 <b>Scuba Diving</b> – Exploring the depths of the ocean to find calm in the chaos.</li>
+        <li>🏋️‍♀️ <b>CrossFit & Running</b> – Building endurance and clearing the mental cache.</li>
+        <li>🧘‍♀️ <b>Mindfulness</b> – Meditation and continuous self-development.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br />
 
-### ⚡ Life Away From Keyboard
-When I'm not orchestrating AI agents, I focus on creativity and balance:
-
-*   🎨 **Visual Arts & Design** – My creative outlet. I have a **keen eye for aesthetics**, whether it's **fashion**, **interior design**, or **digital art**.
-*   🤿 **Scuba Diving** – Exploring the depths of the ocean to find calm in the chaos.
-*   🏋️‍♀️ **CrossFit & Running** – Building endurance and clearing the mental cache.
-*   🧘‍♀️ **Mindfulness** – Meditation and continuous self-development.
-
----
-
-
-### 👤 Contact & Socials
-
-<p align="left">
-  <!-- Professional -->
-  <a href="https://www.linkedin.com/in/aneta-kahle/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aneta.kahleova@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Socials -->
-  <a href="https://www.instagram.com/anetka_kahle/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/aneta.kahleova/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
----
-
-🔒 **Secure Communication**
-
-If you want to write anything sensitive, please encrypt it with my **PGP key**:
-
-<a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
-  <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
-</a>
+<!-- Contact Box -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>👤 Contact & Socials</h3>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/aneta-kahle/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:aneta.kahleova@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://www.instagram.com/anetka_kahle/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+        <a href="https://www.facebook.com/aneta.kahleova/">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+        </a>
+      </p>
+      <hr />
+      <p>
+        🔒 <b>Secure Communication</b><br />
+        If you want to write anything sensitive, please encrypt it with my <b>PGP key</b>:
+        <br /><br />
+        <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
+          <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
