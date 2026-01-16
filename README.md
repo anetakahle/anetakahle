@@ -72,6 +72,31 @@ I primarily work on enterprise-grade private repositories (projects like *Compli
 
 ---
 
-### 👤 Contact
-* [LinkedIn](https://www.linkedin.com/in/aneta-kahle/)
-* [Email](mailto:aneta.kahleova@gmail.com)
+### 👤 Contact & Socials
+
+<p align="left">
+  <!-- Professional -->
+  <a href="https://www.linkedin.com/in/aneta-kahle/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aneta.kahleova@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Socials -->
+  <a href="https://www.instagram.com/anetka_kahle/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/aneta.kahleova/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+🔒 **Secure Communication**
+
+If you want to write anything sensitive, please encrypt it with my **PGP key**:
+
+<a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
+  <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
+</a>
