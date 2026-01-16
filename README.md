@@ -83,9 +83,6 @@ When I'm not orchestrating AI agents, I focus on creativity and balance:
 
 ---
 
-Tato verze říká: *"Baví mě to, mám pro to cit a dělám to pro radost,"* což je přesně ten message, který chceš předat. Můžeš to tam rovnou vložit.
-
----
 
 ### 👤 Contact & Socials
 
