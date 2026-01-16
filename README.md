@@ -98,7 +98,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
-### <div align="center">⚡ Life Away From Keyboard</div>
+### <div align="center">🌸 Life Away From Keyboard</div>
 <div align="center">
   <i>Creativity, Balance, and Offline Mode.</i>
 </div>
@@ -113,7 +113,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 *   🏋️‍♀️ **CrossFit & Running**
     <br />Building endurance and clearing the mental cache.
 
-*   🧘‍♀️ **Mindfulness**
+*   🧘‍♀️🌱 **Mindfulness**
     <br />Meditation and continuous self-development.
 
 <br />
