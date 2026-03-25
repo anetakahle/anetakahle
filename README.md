@@ -150,6 +150,9 @@ If you want to write anything sensitive, please encrypt it with my PGP key:
   <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
 
+Anonymous feedback: https://www.admonymous.co/aneta-kahleova
+
+
 </div>
 
 
