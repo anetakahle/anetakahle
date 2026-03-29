@@ -125,11 +125,15 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 <div align="center">
 
+
 <a href="https://www.linkedin.com/in/aneta-kahle/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:aneta.kahleova@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com/" title="Discord: aneta8633">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://www.instagram.com/anetka_kahle/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -137,10 +141,10 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 <a href="https://www.facebook.com/aneta.kahleova/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-</a>
 <a href="https://www.admonymous.co/aneta-kahleova">
   <img src="https://img.shields.io/badge/Anonymous_Message-111111?style=for-the-badge&logo=ghostery&logoColor=white" alt="Anonymous Message" />
 </a>
+
 
 <br /><br />
 
