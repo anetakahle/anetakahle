@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hi, I'm Aneta! 👋
+# Translating human chaos into robot instructions. 🪄
 
 <!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
