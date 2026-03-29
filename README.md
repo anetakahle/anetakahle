@@ -132,7 +132,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 <a href="mailto:aneta.kahleova@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://discord.com/" title="Discord: aneta8633">
+<a href="https://discord.com/users/757664012556304546" title="Discord: aneta8633">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://www.instagram.com/anetka_kahle/">
