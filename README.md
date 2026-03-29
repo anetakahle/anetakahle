@@ -137,6 +137,10 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 <a href="https://www.facebook.com/aneta.kahleova/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
+</a>
+<a href="https://www.admonymous.co/aneta-kahleova">
+  <img src="https://img.shields.io/badge/Anonymous_Message-111111?style=for-the-badge&logo=ghostery&logoColor=white" alt="Anonymous Message" />
+</a>
 
 <br /><br />
 
@@ -150,7 +154,6 @@ If you want to write anything sensitive, please encrypt it with my PGP key:
   <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
 
-Anonymous feedback: https://www.admonymous.co/aneta-kahleova
 
 
 </div>
@@ -159,3 +162,6 @@ Anonymous feedback: https://www.admonymous.co/aneta-kahleova
 >
 
 </div>
+
+
+
