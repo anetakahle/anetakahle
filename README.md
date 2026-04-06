@@ -120,6 +120,17 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
+### <div align="center">🧠 Explore Aneta's Brain</div>
+
+<div align="center">
+  <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
+    <img src="project-map.png" alt="Idea Map" width="500"/>
+  </a>
+  <br/>
+  <i>👆 Click to explore my mind</i>
+</div>
+
+---
 
 ### <div align="center">👤 Contact & Socials</div>
 
@@ -157,6 +168,7 @@ If you want to write anything sensitive, please encrypt it with my PGP key:
 <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
   <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
+
 
 
 
