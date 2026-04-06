@@ -99,10 +99,12 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 ---
 
 ### <div align="center">🌸 Life Away From Keyboard</div>
+
 <div align="center">
-  <i>Creativity, Balance, and Offline Mode.</i>
+  <img src="rain.gif" width="400" />
+  <br/>
+  <i>Finding calm in the noise.</i>
 </div>
-<br />
 
 *   🎨 **Visual Arts & Design**
     <br />My creative outlet. I have a **keen eye for aesthetics**, whether it's **fashion**, **interior design**, or **digital art**.
