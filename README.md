@@ -134,6 +134,19 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
+<br />
+
+---
+
+### <div align="center">✨ Acknowledgments</div>
+
+<div align="center">
+  A huge thank you to <b>Matej Štágl</b> for introducing me to the world of programming. I will be forever grateful!
+</div>
+
+
+---
+
 ### <div align="center">👤 Contact & Socials</div>
 
 <div align="center">
