@@ -137,7 +137,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 ### <div align="center">✨ Acknowledgments</div>
 
 <div align="center">
-  A huge thank you to <b>Matěj Štágl</b> for introducing me to the world of programming. I will be forever grateful! 🦁
+  A huge thank you to <b>Matěj Štágl</b> - <a href="https://github.com/lofcz">lofcz</a>  for introducing me to the world of programming. I will be forever grateful! 🦁
   <img width="204.8" height="157.5" alt="0dde4696-c005-4513-8997-468eb7c83566" src="https://github.com/user-attachments/assets/ff5013aa-e984-42cf-ba4f-b6e7b36741a2" />
 
 </div>
