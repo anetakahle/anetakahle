@@ -19,7 +19,7 @@
 
 I am a **Full-stack AI Engineer** and **Data Analyst** with a strong passion for **Automation** and **Agentic Workflows**.
 
-My work bridges the gap between raw data and intelligent decision-making. I specialize in building **autonomous agents**, orchestrating complex workflows using for example **LLMtornado** (C#), and mining data from the web via **Playwright**. I love turning chaotic data into structured insights.
+My work bridges the gap between raw data and intelligent decision-making. I specialize in building **autonomous agents**, orchestrating complex workflows using for example **LLMtornado** (C#) or **LangGraph**, and mining data from the web via **Playwright**. I love turning chaotic data into structured insights.
 
 </div>
 
