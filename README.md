@@ -88,7 +88,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 ### <div align="center">🌸 Life Away From Keyboard</div>
 
 <div align="center">
-  <img src="rain.gif" width="400" />
+  <img src="rain.gif" width="300" />
   <br/>
   <i>Finding calm in the noise.</i>
 </div>
@@ -104,7 +104,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
   <b>🧠 ...and it all connects in my head.</b>
   <br/><br/>
   <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
-    <img src="project-map.png" alt="Idea Map" width="500"/>
+    <img src="project-map.png" alt="Idea Map" width="380"/>
   </a>
   <br/>
   <i>👆 Click to explore my mind</i>
