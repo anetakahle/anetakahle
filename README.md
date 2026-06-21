@@ -1,7 +1,7 @@
 <!-- Header Images - Centered -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="380" alt="Profile Visual 1" />
-  <img src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" height="380" alt="Profile Visual 2" />
+  <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="280" alt="Profile Visual 1" />
+  <img src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" height="280" alt="Profile Visual 2" />
 </div>
 
 <br />
@@ -17,9 +17,9 @@
 
 <br/>
 
-**Full-stack AI Engineer** & **Data Analyst** — I build **autonomous agents** and turn chaotic data into structured insights.
+**Full-stack AI Engineer** & **Data Analyst** — my work bridges the gap between raw data and intelligent decision-making.
 
-**Agent orchestration** & **agentic RAG** in **.NET** (LLMtornado) and **LangGraph**, with web data mined via **Playwright**.
+I specialize in **agent orchestration** and **agentic RAG** — building **autonomous agents** in **.NET** (LLMtornado) and **LangGraph**, mining web data via **Playwright**, and turning chaos into structured insights.
 
 </div>
 
