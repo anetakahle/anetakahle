@@ -95,6 +95,22 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
+### <div align="center">💚 A Project Close to My Heart</div>
+
+<div align="center">
+
+Together with my mum — a physician and **diabetologist** — I'm building <a href="https://hanakahleova.com">hanakahleova.com</a>.
+
+For many years she has researched how **nutrition** can help treat **type 2 diabetes and obesity**, with a long list of scientific publications behind her. Her mission is to find **evidence-based** ways to eat better and help people live healthier lives.
+
+I decided to help her **extend that reach** — turning decades of research into something that can reach, and help, far more people.
+
+</div>
+
+<br />
+
+---
+
 ### <div align="center">🌸 Life Away From Keyboard</div>
 
 <div align="center">
@@ -137,7 +153,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 <div align="center">
 
-I work as a <b>contractor</b>, delivering custom software end-to-end — here's a sample: <a href="https://hanakahleova.com">hanakahleova.com</a>
+I work as a <b>contractor</b>, delivering custom software end-to-end — the project above is one example.
 <br/>
 <b>Need something built?</b> I'm open to collaboration. Reach out at <code>aneta.kahleova@gmail.com</code>, or find me here:
 
