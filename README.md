@@ -135,11 +135,9 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 
 <br />
 
----
-
-### <div align="center">🧠 Explore Aneta's Brain</div>
-
 <div align="center">
+  <b>🧠 ...and it all connects in my head.</b>
+  <br/><br/>
   <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
     <img src="project-map.png" alt="Idea Map" width="500"/>
   </a>
