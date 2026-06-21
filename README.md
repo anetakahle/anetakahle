@@ -155,25 +155,17 @@ I work as a <b>contractor</b>, delivering custom software end-to-end — here's 
 
 <br /><br />
 
-🔒 **Secure Communication**
+<details>
+<summary>🔒 Secure communication (PGP)</summary>
 <br />
+For anything sensitive, please encrypt it with my PGP key.
+<br /><br />
 <small>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></small>
 <br /><br />
-If you want to write anything sensitive, please encrypt it with my PGP key:
-<br />
 <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
   <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=flat-square&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
-
-
-
+</details>
 
 </div>
-
-
->
-
-</div>
-
-
 
