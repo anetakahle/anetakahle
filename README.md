@@ -97,27 +97,6 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
-### <div align="center">🤝 Freelance & Contract Work</div>
-
-<div align="center">
-
-I also work as a <b>contractor</b>, delivering custom software end-to-end.<br/>
-Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com</a>
-
-<br/>
-
-<b>Need custom software built?</b> I'm open to collaboration — feel free to reach out at <code>aneta.kahleova@gmail.com</code>
-<br/><br/>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aneta.kahleova@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<br />
-
----
-
 ### <div align="center">🌸 Life Away From Keyboard</div>
 
 <div align="center">
@@ -156,11 +135,15 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 
 ---
 
-### <div align="center">👤 Contact & Socials</div>
+### <div align="center">🤝 Let's Work Together</div>
 
 <div align="center">
 
+I work as a <b>contractor</b>, delivering custom software end-to-end — here's a sample: <a href="https://hanakahleova.com">hanakahleova.com</a>
+<br/>
+<b>Need something built?</b> I'm open to collaboration. Reach out at <code>aneta.kahleova@gmail.com</code>, or find me here:
 
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/aneta-kahle/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NDkgMy4zNy0xLjg0OSAzLjYwMiAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K" />
