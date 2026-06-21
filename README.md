@@ -121,10 +121,22 @@ I decided to help her **extend that reach** — turning decades of research into
   <i>Finding calm in the noise.</i>
 </div>
 
-*   🎨📸 **Visual Arts, Design & Modeling** — a keen eye for aesthetics: fashion, interior design, digital art, and modeling.
-*   🤿 **Scuba Diving** — finding calm in the depths of the ocean.
-*   🏋️‍♀️🥋 **CrossFit, Running & Martial Arts** — endurance, discipline, and clearing the mental cache.
-*   🧘‍♀️🌱 **Mindfulness** — meditation and continuous self-development.
+<div align="center">
+
+🎨📸 **Visual Arts, Design & Modeling**
+<br/>A keen eye for aesthetics: fashion, interior design, digital art, and modeling.
+
+<br/>
+
+🏋️‍♀️🥋🤿 **CrossFit, Running, Martial Arts & Scuba Diving**
+<br/>Endurance, discipline, and finding calm in the chaos — on land and underwater.
+
+<br/>
+
+🧘‍♀️🌱 **Mindfulness**
+<br/>Meditation and continuous self-development.
+
+</div>
 
 <br />
 
