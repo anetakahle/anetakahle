@@ -101,10 +101,10 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 <br />
 
 <div align="center">
-  <b>🧠 ...and it all connects in my head.</b>
+  <b>🧠 Explore Aneta's Brain</b>
   <br/><br/>
   <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
-    <img src="project-map.png" alt="Idea Map" width="380"/>
+    <img src="project-map.png" alt="Idea Map" width="300"/>
   </a>
   <br/>
   <i>👆 Click to explore my mind</i>
