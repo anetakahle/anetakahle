@@ -83,10 +83,17 @@ I specialize in **agent orchestration** and **agentic RAG** — building **auton
 </div>
 <br />
 
-*   ⚡ **Agent Orchestration** — autonomous systems that plan and execute, built in .NET (**LLMtornado**) and **LangGraph**.
-*   🌱 **Data Analysis & Automation** — **Playwright** web scraping, **Pandas/Spark** for cleaning and analyzing large datasets.
-*   🔭 **Context Engineering & Agentic RAG** — precision retrieval pipelines where agents route and refine the right data into LLMs.
-*   ✨ **Full-stack Engineering** — end-to-end solutions in **C#/.NET** and **TypeScript/React**.
+*   ⚡ **Agent Orchestration**
+    <br />Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
+
+*   🌱 **Data Analysis & Automation**
+    <br />Automating the boring stuff: **Playwright** for robust web scraping, **Pandas/Spark** to clean, analyze, and visualize large datasets.
+
+*   🔭 **Context Engineering & Agentic RAG**
+    <br />Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs.
+
+*   ✨ **Full-stack Engineering**
+    <br />Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
 
 <br />
 
