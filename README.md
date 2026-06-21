@@ -128,20 +128,14 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
   <i>Finding calm in the noise.</i>
 </div>
 
-*   🎨 **Visual Arts & Design**
-    <br />My creative outlet. I have a **keen eye for aesthetics**, whether it's **fashion**, **interior design**, or **digital art**.
-
-*   📸 **Modeling**
-    <br />Working as a **model** — another way I express my love for art, aesthetics, and visual storytelling.
+*   🎨📸 **Visual Arts, Design & Modeling**
+    <br />My creative outlet. I have a **keen eye for aesthetics** — **fashion**, **interior design**, **digital art** — and I also work as a **model**, another way to express my love for art and visual storytelling.
 
 *   🤿 **Scuba Diving**
     <br />Exploring the depths of the ocean to find calm in the chaos.
 
-*   🏋️‍♀️ **CrossFit & Running**
-    <br />Building endurance and clearing the mental cache.
-
-*   🥋 **Martial Arts**
-    <br />Discipline, focus, and learning to stay calm under pressure.
+*   🏋️‍♀️🥋 **CrossFit, Running & Martial Arts**
+    <br />Building endurance, discipline, and learning to stay calm under pressure — while clearing the mental cache.
 
 *   🧘‍♀️🌱 **Mindfulness**
     <br />Meditation and continuous self-development.
