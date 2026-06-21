@@ -27,7 +27,27 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
-### <div align="center">💻 Tech Stack</div>
+### <div align="center">🚀 What I Do</div>
+<div align="center">
+  <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
+</div>
+<br />
+
+*   ⚡ **Agent Orchestration**
+    <br />Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
+
+*   🌱 **Data Analysis & Automation**
+    <br />Automating the boring stuff: **Playwright** for robust web scraping, **Pandas/Spark** to clean, analyze, and visualize large datasets.
+
+*   🔭 **Context Engineering & Agentic RAG**
+    <br />Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs.
+
+*   ✨ **Full-stack Engineering**
+    <br />Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
+
+<br />
+
+#### <div align="center">💻 My Tech Stack</div>
 
 <div align="center">
 
@@ -72,28 +92,6 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </div>
-
-<br />
-
----
-
-### <div align="center">🚀 Professional Focus</div>
-<div align="center">
-  <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
-</div>
-<br />
-
-*   ⚡ **Agent Orchestration**
-    <br />Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
-
-*   🌱 **Data Analysis & Automation**
-    <br />Automating the boring stuff: **Playwright** for robust web scraping, **Pandas/Spark** to clean, analyze, and visualize large datasets.
-
-*   🔭 **Context Engineering & Agentic RAG**
-    <br />Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs.
-
-*   ✨ **Full-stack Engineering**
-    <br />Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
 
 <br />
 
