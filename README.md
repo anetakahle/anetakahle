@@ -32,44 +32,44 @@
 <div align="center">
 
 **AI & Context Engineering**<br/>
-<img src="https://img.shields.io/badge/⚙️_Context_Engineering-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_Orchestration-8A2BE2?style=for-the-badge&logo=robot-framework&logoColor=white" />
-<img src="https://img.shields.io/badge/🌪️_LLMtornado-00599C?style=for-the-badge" />
-<img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/⚙️_Context_Engineering-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_Orchestration-8A2BE2?style=flat-square&logo=robot-framework&logoColor=white" />
+<img src="https://img.shields.io/badge/🌪️_LLMtornado-00599C?style=flat-square" />
+<img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=flat-square&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=google-cloud&logoColor=white" />
 
 <br/>
 
 **Data Science & Automation**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Scraping-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Scraping-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
 <br/>
 
 **Backend & Core**<br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/MSSQL-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/MSSQL-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
 <br/>
 
 **Frontend & Cloud**<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=flat-square&logo=msazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </div>
 
@@ -104,7 +104,7 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 <b>Need custom software built?</b> I'm open to collaboration — feel free to reach out at <code>aneta.kahleova@gmail.com</code>
 <br/><br/>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aneta.kahleova@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -160,22 +160,22 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 
 
 <a href="https://www.linkedin.com/in/aneta-kahle/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NDkgMy4zNy0xLjg0OSAzLjYwMiAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NDkgMy4zNy0xLjg0OSAzLjYwMiAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aneta.kahleova@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://discord.com/users/757664012556304546" title="Discord: aneta8633">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://www.instagram.com/anetka_kahle/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.facebook.com/aneta.kahleova/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://www.admonymous.co/aneta-kahleova">
-  <img src="https://img.shields.io/badge/Anonymous_Message-111111?style=for-the-badge&logo=ghostery&logoColor=white" alt="Anonymous Message" />
+  <img src="https://img.shields.io/badge/Anonymous_Message-111111?style=flat-square&logo=ghostery&logoColor=white" alt="Anonymous Message" />
 </a>
 
 
@@ -188,7 +188,7 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 If you want to write anything sensitive, please encrypt it with my PGP key:
 <br />
 <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
-  <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
+  <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=flat-square&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
 
 
