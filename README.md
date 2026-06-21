@@ -33,43 +33,53 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 </div>
 <br />
 
-*   ⚡ **Agent Orchestration**
-    <br />Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
-    <br />
-    <img src="https://img.shields.io/badge/Agentic_Orchestration-8A2BE2?style=flat-square&logo=robot-framework&logoColor=white" />
-    <img src="https://img.shields.io/badge/🌪️_LLMtornado-00599C?style=flat-square" />
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<div align="center">
 
-*   🌱 **Data Analysis & Automation**
-    <br />Automating the boring stuff: **Playwright** for robust web scraping, **Pandas/Spark** to clean, analyze, and visualize large datasets.
-    <br />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-    <img src="https://img.shields.io/badge/Web_Scraping-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+⚡ **Agent Orchestration**
+<br/>Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
+<br/>
+<img src="https://img.shields.io/badge/Agentic_Orchestration-8A2BE2?style=flat-square&logo=robot-framework&logoColor=white" />
+<img src="https://img.shields.io/badge/🌪️_LLMtornado-00599C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
 
-*   🔭 **Context Engineering & Agentic RAG**
-    <br />Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs.
-    <br />
-    <img src="https://img.shields.io/badge/⚙️_Context_Engineering-FF6F00?style=flat-square" />
-    <img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=flat-square&logo=database&logoColor=white" />
-    <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=google-cloud&logoColor=white" />
+<br/>
 
-*   ✨ **Full-stack Engineering**
-    <br />Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
-    <br />
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/MSSQL-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+🌱 **Data Analysis & Automation**
+<br/>Automating the boring stuff: **Playwright** for robust web scraping, **Pandas/Spark** to clean, analyze, and visualize large datasets.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Scraping-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+<br/>
+
+🔭 **Context Engineering & Agentic RAG**
+<br/>Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs.
+<br/>
+<img src="https://img.shields.io/badge/⚙️_Context_Engineering-FF6F00?style=flat-square" />
+<img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=flat-square&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=google-cloud&logoColor=white" />
+
+<br/>
+
+✨ **Full-stack Engineering**
+<br/>Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
+<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/MSSQL-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+
+</div>
 
 <br />
 
