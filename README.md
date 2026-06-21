@@ -1,14 +1,14 @@
 <!-- Header Images - Centered -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="280" alt="Profile Visual 1" />
-  <img src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" height="280" alt="Profile Visual 2" />
+  <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="240" alt="Profile Visual 1" />
+  <img src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" height="240" alt="Profile Visual 2" />
 </div>
 
 <br />
 
 <div align="center">
 
-# Translating human chaos into robot instructions. 🪄
+### Translating human chaos into robot instructions. 🪄
 
 <!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
