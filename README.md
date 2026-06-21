@@ -21,6 +21,8 @@ I am a **Full-stack AI Engineer** and **Data Analyst** with a strong passion for
 
 My work bridges the gap between raw data and intelligent decision-making. I specialize in **agent orchestration** and **agentic RAG** — building **autonomous agents** in **.NET** with **LLMtornado** and graph-based workflows with **LangGraph**, and mining data from the web via **Playwright**. I love turning chaotic data into structured insights.
 
+Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built a chatbot launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
+
 </div>
 
 <br />
