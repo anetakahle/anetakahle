@@ -19,7 +19,7 @@
 
 I am a **Full-stack AI Engineer** and **Data Analyst** with a strong passion for **Automation** and **Agentic Workflows**.
 
-My work bridges the gap between raw data and intelligent decision-making. I specialize in building **autonomous agents**, orchestrating complex workflows using for example **LLMtornado** (C#) or **LangGraph**, and mining data from the web via **Playwright**. I love turning chaotic data into structured insights.
+My work bridges the gap between raw data and intelligent decision-making. I specialize in **agent orchestration** and **agentic RAG** — building **autonomous agents** in **.NET** with **LLMtornado** and graph-based workflows with **LangGraph**, and mining data from the web via **Playwright**. I love turning chaotic data into structured insights.
 
 </div>
 
@@ -36,6 +36,7 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 <img src="https://img.shields.io/badge/Agentic_Orchestration-8A2BE2?style=for-the-badge&logo=robot-framework&logoColor=white" />
 <img src="https://img.shields.io/badge/🌪️_LLMtornado-00599C?style=for-the-badge" />
 <img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
@@ -82,14 +83,14 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 </div>
 <br />
 
-*   ⚡ **Agentic Orchestration**
-    <br />Designing autonomous systems where AI agents interact, plan, and execute tasks using **LLMtornado** and modern orchestration patterns in .NET.
+*   ⚡ **Agent Orchestration**
+    <br />Designing autonomous systems where AI agents interact, plan, and execute tasks — building them in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
 
 *   🌱 **Data Analysis & Automation**
     <br />I love automating the boring stuff. I use **Playwright** for robust web scraping and **Pandas/Spark** to clean, analyze, and visualize large datasets.
 
-*   🔭 **Context Engineering & RAG**
-    <br />Building precision-focused retrieval pipelines that feed the right data into LLMs for corporate use cases.
+*   🔭 **Context Engineering & Agentic RAG**
+    <br />Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs for corporate use cases.
 
 *   ✨ **Full-stack Engineering**
     <br />Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
@@ -114,6 +115,9 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 *   🏋️‍♀️ **CrossFit & Running**
     <br />Building endurance and clearing the mental cache.
+
+*   🥋 **Martial Arts**
+    <br />Discipline, focus, and learning to stay calm under pressure.
 
 *   🧘‍♀️🌱 **Mindfulness**
     <br />Meditation and continuous self-development.
