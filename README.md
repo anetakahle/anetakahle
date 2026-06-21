@@ -140,17 +140,6 @@ I decided to help her **extend that reach** — turning decades of research into
 
 ---
 
-### <div align="center">✨ Acknowledgments</div>
-
-<div align="center">
-  A huge thank you to <b>Matěj Štágl</b> - <a href="https://github.com/lofcz">lofcz</a>  for introducing me to the world of programming. I will be forever grateful! 🦁
-  <img width="204.8" height="157.5" alt="0dde4696-c005-4513-8997-468eb7c83566" src="https://github.com/user-attachments/assets/ff5013aa-e984-42cf-ba4f-b6e7b36741a2" />
-
-</div>
-
-
----
-
 ### <div align="center">🤝 Let's Work Together</div>
 
 <div align="center">
@@ -195,5 +184,15 @@ For anything sensitive, please encrypt it with my PGP key.
 </a>
 </details>
 
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <sub>✨ A huge thank you to <b>Matěj Štágl</b> — <a href="https://github.com/lofcz">lofcz</a> — for introducing me to the world of programming. Forever grateful! 🦁</sub>
+  <br/>
+  <img width="205" height="158" alt="lion cub" src="https://github.com/user-attachments/assets/ff5013aa-e984-42cf-ba4f-b6e7b36741a2" />
 </div>
 
