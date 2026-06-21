@@ -116,7 +116,7 @@ I decided to help her **extend that reach** — turning decades of research into
 ### <div align="center">🌸 Life Away From Keyboard</div>
 
 <div align="center">
-  <img src="rain.gif" width="300" />
+  <img src="rain.gif" width="240" />
   <br/>
   <i>Finding calm in the noise.</i>
 </div>
@@ -193,6 +193,6 @@ For anything sensitive, please encrypt it with my PGP key.
 <div align="center">
   <sub>✨ A huge thank you to <b>Matěj Štágl</b> — <a href="https://github.com/lofcz">lofcz</a> — for introducing me to the world of programming. Forever grateful! 🦁</sub>
   <br/>
-  <img width="205" height="158" alt="lion cub" src="https://github.com/user-attachments/assets/ff5013aa-e984-42cf-ba4f-b6e7b36741a2" />
+  <img width="130" height="100" alt="lion cub" src="https://github.com/user-attachments/assets/ff5013aa-e984-42cf-ba4f-b6e7b36741a2" />
 </div>
 
