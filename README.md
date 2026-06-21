@@ -108,9 +108,10 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 
 <br/>
 
-<b>Need custom software built?</b> I'm open to collaboration — feel free to reach out.<br/>
+<b>Need custom software built?</b> I'm open to collaboration — feel free to reach out at <a href="mailto:aneta.kahleova@gmail.com"><code>aneta.kahleova@gmail.com</code></a>
+<br/><br/>
 <a href="mailto:aneta.kahleova@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_talk-aneta.kahleova@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
