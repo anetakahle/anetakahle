@@ -132,7 +132,7 @@ I decided to help her **extend that reach** — turning decades of research into
   <b>🧠 Explore Aneta's Brain</b>
   <br/><br/>
   <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
-    <img src="project-map.png" alt="Idea Map" width="300"/>
+    <img src="project-map.png" alt="Idea Map" width="240"/>
   </a>
   <br/>
   <i>👆 Click to explore my mind</i>
