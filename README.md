@@ -60,7 +60,7 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 <br/>
 
 🔭 **Context Engineering & Agentic RAG**
-<br/>Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs.
+<br/>Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs. Currently powering a customer-facing chatbot at **OKlab**, launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
 <br/>
 <img src="https://img.shields.io/badge/⚙️_Context_Engineering-FF6F00?style=flat-square" />
 <img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=flat-square&logo=database&logoColor=white" />
