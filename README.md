@@ -99,6 +99,26 @@ My work bridges the gap between raw data and intelligent decision-making. I spec
 
 ---
 
+### <div align="center">🤝 Freelance & Contract Work</div>
+
+<div align="center">
+
+I also work as a <b>contractor</b>, delivering custom software end-to-end.<br/>
+Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com</a>
+
+<br/>
+
+<b>Need custom software built?</b> I'm open to collaboration — feel free to reach out.<br/>
+<a href="mailto:aneta.kahleova@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_talk-aneta.kahleova@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br />
+
+---
+
 ### <div align="center">🌸 Life Away From Keyboard</div>
 
 <div align="center">
