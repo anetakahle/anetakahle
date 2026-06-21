@@ -131,6 +131,9 @@ Here's a sample of my work: <a href="https://hanakahleova.com">hanakahleova.com<
 *   🎨 **Visual Arts & Design**
     <br />My creative outlet. I have a **keen eye for aesthetics**, whether it's **fashion**, **interior design**, or **digital art**.
 
+*   📸 **Modeling**
+    <br />Working as a **model** — another way I express my love for art, aesthetics, and visual storytelling.
+
 *   🤿 **Scuba Diving**
     <br />Exploring the depths of the ocean to find calm in the chaos.
 
