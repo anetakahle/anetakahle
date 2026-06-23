@@ -113,41 +113,22 @@ I decided to help her **extend that reach** — turning decades of research into
 
 ---
 
-### <div align="center">🌸 Life Away From Keyboard</div>
-
-<div align="center">
-  <img src="rain.gif" width="240" />
-  <br/>
-  <i>Finding calm in the noise.</i>
-</div>
+### <div align="center">🌌 The Human Behind the Code</div>
 
 <div align="center">
 
-🎨📸 **Visual Arts, Design & Modeling**
-<br/>A keen eye for aesthetics: fashion, interior design, digital art, and modeling.
+This is my professional side. Beyond the code, I live for **art**, **movement**, **nature**, and a lot of **inner exploration**.
+
+I mapped it all into an **interactive galaxy** — every star is a piece of who I am. Wander through it. 🪐
 
 <br/>
 
-🏋️‍♀️🥋🤿 **CrossFit, Running, Martial Arts & Scuba Diving**
-<br/>Endurance, discipline, and finding calm in the chaos — on land and underwater.
-
+<a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
+  <img src="project-map.png" alt="Explore my galaxy" width="320"/>
+</a>
 <br/>
+<i>👆 Step into my galaxy</i>
 
-🧘‍♀️🌱 **Mindfulness**
-<br/>Meditation and continuous self-development.
-
-</div>
-
-<br />
-
-<div align="center">
-  <b>🧠 Explore Aneta's Brain</b>
-  <br/><br/>
-  <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
-    <img src="project-map.png" alt="Idea Map" width="240"/>
-  </a>
-  <br/>
-  <i>👆 Click to explore my mind</i>
 </div>
 
 ---
