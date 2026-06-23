@@ -116,6 +116,12 @@ I decided to help her **extend that reach** — turning decades of research into
 ### <div align="center">🌌 The Human Behind the Code</div>
 
 <div align="center">
+  <img src="rain.gif" width="240" />
+  <br/>
+  <i>Finding calm in the noise.</i>
+</div>
+
+<div align="center">
 
 This is my professional side. Beyond the code, I live for **art**, **movement**, **nature**, and a lot of **inner exploration**.
 
