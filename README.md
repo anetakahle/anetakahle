@@ -29,11 +29,12 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 
 ---
 
-### <div align="center">🚀 What I Do</div>
 <div align="center">
+<details>
+<summary><h3>🚀 What I Do</h3></summary>
+<br/>
   <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
-</div>
-<br />
+<br /><br />
 
 <div align="center">
 
@@ -93,46 +94,50 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
   <img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=flat-square&logo=msazure&logoColor=white" />
 </div>
 
-<br />
-
----
-
-### <div align="center">💚 A Project Close to My Heart</div>
-
-<div align="center">
-
-Together with my mum — a physician and **diabetologist** — I'm building <a href="https://hanakahleova.com">hanakahleova.com</a>.
-
-For many years she has researched how **nutrition** can help treat **type 2 diabetes and obesity**, with a long list of scientific publications behind her. Her mission is to find **evidence-based** ways to eat better and help people live healthier lives.
-
-I decided to help her **extend that reach** — turning decades of research into something that can reach, and help, far more people.
-
+</details>
 </div>
 
 <br />
 
 ---
 
-### <div align="center">🌌 More about Aneta</div>
-
 <div align="center">
-  <img src="rain.gif" width="240" />
-  <br/>
-  <i>Finding calm in the noise.</i>
-</div>
+<details>
+<summary><h3>💚 Selected Projects</h3></summary>
+<br/>
 
-<div align="center">
-
-Beyond the code — art, movement, nature, and a lot of curiosity.
+**🥗 <a href="https://hanakahleova.com">hanakahleova.com</a>**
+<br/>
+With my mum — a physician and **diabetologist** — turning decades of **evidence-based** research on **type 2 diabetes & obesity** into a platform that reaches and helps far more people.
 
 <br/>
 
+**🤖 OKlab Knowledge Chatbot**
+<br/>
+A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
+
+</details>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+<details>
+<summary><h3>🌌 More about Aneta</h3></summary>
+<br/>
+  <img src="rain.gif" width="240" />
+  <br/>
+  <i>Finding calm in the noise.</i>
+  <br/><br/>
 <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
   <img src="project-map.png" alt="More about Aneta" width="320"/>
 </a>
 <br/>
 <i>👆 Explore my mind</i>
 
+</details>
 </div>
 
 ---
