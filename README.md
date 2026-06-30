@@ -41,6 +41,8 @@
 </td>
 </tr></table>
 
+<sub align="center"><i>↑ tap a bubble to jump · tap a section title to open it</i></sub>
+
 <br/>
 
 ---
@@ -48,11 +50,10 @@
 <!-- ─────────────────────────  WHAT I DO  ───────────────────────── -->
 <a id="what-i-do"></a>
 <div align="center">
-
-### ⚙ &nbsp; What I Do
-
-<i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
-
+<details>
+<summary><h3>⚙ &nbsp; What I Do</h3></summary>
+<br/>
+  <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
 <br /><br />
 
 **Agent Orchestration**
@@ -107,6 +108,7 @@
 <img src="https://img.shields.io/badge/Linux-2B3138?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://custom-icon-badges.demolab.com/badge/Azure-2B3138?style=flat-square&logo=msazure&logoColor=white" />
 
+</details>
 </div>
 
 <br/>
@@ -116,8 +118,9 @@
 <!-- ─────────────────────────  PROJECTS  ───────────────────────── -->
 <a id="projects"></a>
 <div align="center">
-
-### ★ &nbsp; Selected Projects
+<details>
+<summary><h3>★ &nbsp; Selected Projects</h3></summary>
+<br/>
 
 **<a href="https://hanakahleova.com">hanakahleova.com</a>**
 <br/>
@@ -129,6 +132,7 @@ With my mum — a physician and **diabetologist** — turning decades of **evide
 <br/>
 A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
 
+</details>
 </div>
 
 <br/>
@@ -138,19 +142,20 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 <!-- ─────────────────────────  LIFE  ───────────────────────── -->
 <a id="life"></a>
 <div align="center">
-
-### ☾ &nbsp; Life
-
-<img src="rain.gif" width="240" />
+<details>
+<summary><h3>☾ &nbsp; Life</h3></summary>
 <br/>
-<i>Finding calm in the noise.</i>
-<br/><br/>
+  <img src="rain.gif" width="240" />
+  <br/>
+  <i>Finding calm in the noise.</i>
+  <br/><br/>
 <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
   <img src="project-map.png" alt="Explore my mind" width="320"/>
 </a>
 <br/>
 <i>Explore my mind</i>
 
+</details>
 </div>
 
 <br/>
@@ -160,8 +165,9 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 <!-- ─────────────────────────  CONTACT  ───────────────────────── -->
 <a id="contact"></a>
 <div align="center">
-
-### ✉ &nbsp; Let's Work Together
+<details>
+<summary><h3>✉ &nbsp; Let's Work Together</h3></summary>
+<br/>
 
 I work as a <b>contractor</b>, delivering custom software end-to-end.
 <br/>
@@ -190,18 +196,15 @@ I work as a <b>contractor</b>, delivering custom software end-to-end.
 
 <br /><br />
 
-<details>
-<summary>🔒 Secure communication (PGP)</summary>
-<br />
-For anything sensitive, please encrypt it with my PGP key.
-<br /><br />
-<small>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></small>
-<br /><br />
+<sub>🔒 <b>Secure communication (PGP)</b> — for anything sensitive, please encrypt with my key.</sub>
+<br/>
+<sub>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></sub>
+<br/>
 <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
   <img src="https://img.shields.io/badge/PGP_Public_Key-2B3138?style=flat-square&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
-</details>
 
+</details>
 </div>
 
 <br />
