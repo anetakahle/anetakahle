@@ -1,43 +1,57 @@
-<!-- ─────────────────────────  HERO  ───────────────────────── -->
+<!-- ─────────────────────────  IG-STYLE PROFILE HEADER  ───────────────────────── -->
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="260" alt="Aneta Kahleová" />
+<img src="assets/avatar.png" width="150" alt="Aneta Kahleová" />
 
-<br /><br />
+### Aneta Kahleová
 
-# Aneta Kahleová
+<sub>@anetka_kahle</sub>
 
-<sub>FULL-STACK AI/ML ENGINEER &nbsp;·&nbsp; CONTRACTOR &nbsp;·&nbsp; MODEL &amp; ENTREPRENEUR</sub>
+**Full-stack AI/ML Engineer & Contractor**
+<br/>
+<sub>AI Agents · Context Engineering · LLM · Python · .NET · TypeScript</sub>
+<br/>
+<sub>👩‍💻 Model & Entrepreneur ✨</sub>
 
-<br />
+<br/>
 
-*Translating human chaos into robot instructions.*
-
-<br />
-
-> I build **autonomous AI agents** and **agentic-RAG** systems in **.NET** and **Python**.
-> Currently **AI Tech Lead at OKlab** (OKsystem), shipping a production RAG chatbot —
-> launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
-
-<br />
-
-<a href="mailto:aneta.kahleova@gmail.com">
-  <img src="https://img.shields.io/badge/Available_for_work-2B3138?style=flat-square&logo=maildotru&logoColor=white" alt="Available for work" />
-</a>
-<a href="https://www.linkedin.com/in/aneta-kahle/">
-  <img src="https://img.shields.io/badge/LinkedIn-2B3138?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+*“Translating human chaos into robot instructions.”*
 
 </div>
 
-<br />
+<br/>
+
+<!-- ─────────────────────────  STORY-HIGHLIGHT NAV  ───────────────────────── -->
+<table align="center"><tr>
+<td align="center" width="120">
+  <a href="#what-i-do"><img src="assets/hl-work.png" width="92" alt="What I Do" /></a>
+  <br/><sub><b>What I Do</b></sub>
+</td>
+<td align="center" width="120">
+  <a href="#projects"><img src="assets/hl-projects.png" width="92" alt="Projects" /></a>
+  <br/><sub><b>Projects</b></sub>
+</td>
+<td align="center" width="120">
+  <a href="#life"><img src="assets/hl-life.png" width="92" alt="Life" /></a>
+  <br/><sub><b>Life</b></sub>
+</td>
+<td align="center" width="120">
+  <a href="#contact"><img src="assets/hl-contact.png" width="92" alt="Contact" /></a>
+  <br/><sub><b>Contact</b></sub>
+</td>
+</tr></table>
+
+<sub align="center"><i>↑ tap a bubble to jump · tap a section title to open it</i></sub>
+
+<br/>
 
 ---
 
-<!-- ─────────────────────────  DETAILS  ───────────────────────── -->
+<!-- ─────────────────────────  WHAT I DO  ───────────────────────── -->
+<a id="what-i-do"></a>
 <div align="center">
 <details>
-<summary><b>What I Do</b></summary>
+<summary><h3>⚙ &nbsp; What I Do</h3></summary>
 <br/>
   <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
 <br /><br />
@@ -97,11 +111,15 @@
 </details>
 </div>
 
-<br />
+<br/>
 
+---
+
+<!-- ─────────────────────────  PROJECTS  ───────────────────────── -->
+<a id="projects"></a>
 <div align="center">
 <details>
-<summary><b>Selected Projects</b></summary>
+<summary><h3>★ &nbsp; Selected Projects</h3></summary>
 <br/>
 
 **<a href="https://hanakahleova.com">hanakahleova.com</a>**
@@ -117,18 +135,22 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 </details>
 </div>
 
-<br />
+<br/>
 
+---
+
+<!-- ─────────────────────────  LIFE  ───────────────────────── -->
+<a id="life"></a>
 <div align="center">
 <details>
-<summary><b>More about Aneta</b></summary>
+<summary><h3>☾ &nbsp; Life</h3></summary>
 <br/>
   <img src="rain.gif" width="240" />
   <br/>
   <i>Finding calm in the noise.</i>
   <br/><br/>
 <a href="https://anetakahle.github.io/gamma-waves/idea-map.html" target="_blank">
-  <img src="project-map.png" alt="More about Aneta" width="320"/>
+  <img src="project-map.png" alt="Explore my mind" width="320"/>
 </a>
 <br/>
 <i>Explore my mind</i>
@@ -136,19 +158,26 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 </details>
 </div>
 
-<br />
+<br/>
 
+---
+
+<!-- ─────────────────────────  CONTACT  ───────────────────────── -->
+<a id="contact"></a>
 <div align="center">
 <details>
-<summary><b>Contact &amp; elsewhere</b></summary>
+<summary><h3>✉ &nbsp; Let's Work Together</h3></summary>
 <br/>
 
-I work as a <b>contractor</b>, delivering custom software end-to-end. <b>Need something built?</b>
+I work as a <b>contractor</b>, delivering custom software end-to-end.
 <br/>
-Reach me at <code>aneta.kahleova@gmail.com</code>, or find me here:
+<b>Need something built?</b> Reach me at <code>aneta.kahleova@gmail.com</code>, or find me here:
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/aneta-kahle/">
+<img src="https://img.shields.io/badge/LinkedIn-2B3138?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aneta.kahleova@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-2B3138?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
