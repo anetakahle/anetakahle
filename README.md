@@ -8,12 +8,13 @@
 
 <div align="center">
 
-### Translating human chaos into robot instructions. 🪄
+### Aneta Kahleová
 
-<!-- Dynamic Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full-stack+AI+Engineer;Context+Engineering+%26+RAG;Automation+%26+Data+Analysis;C%23+%7C+Python+%7C+React" alt="Typing SVG" />
-</a>
+<sub>FULL-STACK AI/ML ENGINEER &nbsp;·&nbsp; CONTRACTOR</sub>
+
+<br />
+
+*Translating human chaos into robot instructions.*
 
 <br/>
 
@@ -31,56 +32,56 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 
 <div align="center">
 <details>
-<summary><h3>🚀 What I Do</h3></summary>
+<summary><h3>What I Do</h3></summary>
 <br/>
   <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
 <br /><br />
 
 <div align="center">
 
-⚡ **Agent Orchestration**
+**Agent Orchestration**
 <br/>Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
 <br/>
-<img src="https://img.shields.io/badge/Agentic_Orchestration-8A2BE2?style=flat-square&logo=robot-framework&logoColor=white" />
-<img src="https://img.shields.io/badge/🌪️_LLMtornado-00599C?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Orchestration-2B3138?style=flat-square&logo=robot-framework&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMtornado-2B3138?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-2B3138?style=flat-square&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-2B3138?style=flat-square&logo=chainlink&logoColor=white" />
 
 <br/>
 
-🌱 **Data Analysis & Automation**
+**Data Analysis & Automation**
 <br/>Automating the boring stuff: **Playwright** for robust web scraping, **Pandas/Spark** to clean, analyze, and visualize large datasets.
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Scraping-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-2B3138?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2B3138?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-2B3138?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Playwright-2B3138?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Scraping-2B3138?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-2B3138?style=flat-square&logo=jupyter&logoColor=white" />
 
 <br/>
 
-🔭 **Context Engineering & Agentic RAG**
+**Context Engineering & Agentic RAG**
 <br/>Building precision-focused retrieval pipelines — including **agentic RAG**, where agents reason over, route, and refine retrieval to feed the right data into LLMs. Currently powering a customer-facing chatbot at **OKlab**, launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
 <br/>
-<img src="https://img.shields.io/badge/⚙️_Context_Engineering-FF6F00?style=flat-square" />
-<img src="https://custom-icon-badges.demolab.com/badge/RAG-FF4B4B?style=flat-square&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Context_Engineering-2B3138?style=flat-square" />
+<img src="https://custom-icon-badges.demolab.com/badge/RAG-2B3138?style=flat-square&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-2B3138?style=flat-square&logo=google-cloud&logoColor=white" />
 
 <br/>
 
-✨ **Full-stack Engineering**
+**Full-stack Engineering**
 <br/>Delivering end-to-end solutions in **C#/.NET** combined with **TypeScript/React**.
 <br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/MSSQL-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-2B3138?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-2B3138?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2B3138?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-2B3138?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Blazor-2B3138?style=flat-square&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-2B3138?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-2B3138?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/MSSQL-2B3138?style=flat-square&logo=mssqlserver-white&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-2B3138?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
 </div>
 
@@ -88,10 +89,10 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 
 <div align="center">
   <sub><b>Plus the everyday toolbox:</b></sub><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=flat-square&logo=msazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2B3138?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2B3138?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-2B3138?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure-2B3138?style=flat-square&logo=msazure&logoColor=white" />
 </div>
 
 </details>
@@ -103,16 +104,16 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 
 <div align="center">
 <details>
-<summary><h3>💚 Selected Projects</h3></summary>
+<summary><h3>Selected Projects</h3></summary>
 <br/>
 
-**🥗 <a href="https://hanakahleova.com">hanakahleova.com</a>**
+**<a href="https://hanakahleova.com">hanakahleova.com</a>**
 <br/>
 With my mum — a physician and **diabetologist** — turning decades of **evidence-based** research on **type 2 diabetes & obesity** into a platform that reaches and helps far more people.
 
 <br/>
 
-**🤖 OKlab Knowledge Chatbot**
+**OKlab Knowledge Chatbot**
 <br/>
 A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
 
@@ -125,7 +126,7 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 
 <div align="center">
 <details>
-<summary><h3>🌌 More about Aneta</h3></summary>
+<summary><h3>More about Aneta</h3></summary>
 <br/>
   <img src="rain.gif" width="240" />
   <br/>
@@ -135,14 +136,14 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
   <img src="project-map.png" alt="More about Aneta" width="320"/>
 </a>
 <br/>
-<i>👆 Explore my mind</i>
+<i>Explore my mind</i>
 
 </details>
 </div>
 
 ---
 
-### <div align="center">🤝 Let's Work Together</div>
+### <div align="center">Let's Work Together</div>
 
 <div align="center">
 
@@ -153,36 +154,36 @@ I work as a <b>contractor</b>, delivering custom software end-to-end — the pro
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/aneta-kahle/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NDkgMy4zNy0xLjg0OSAzLjYwMiAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K" />
+<img src="https://img.shields.io/badge/LinkedIn-2B3138?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aneta.kahleova@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-2B3138?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://discord.com/users/757664012556304546" title="Discord: aneta8633">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-2B3138?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://www.instagram.com/anetka_kahle/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-2B3138?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.facebook.com/aneta.kahleova/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-2B3138?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://www.admonymous.co/aneta-kahleova">
-  <img src="https://img.shields.io/badge/Anonymous_Message-111111?style=flat-square&logo=ghostery&logoColor=white" alt="Anonymous Message" />
+  <img src="https://img.shields.io/badge/Anonymous_Message-2B3138?style=flat-square&logo=ghostery&logoColor=white" alt="Anonymous Message" />
 </a>
 
 
 <br /><br />
 
 <details>
-<summary>🔒 Secure communication (PGP)</summary>
+<summary>Secure communication (PGP)</summary>
 <br />
 For anything sensitive, please encrypt it with my PGP key.
 <br /><br />
 <small>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></small>
 <br /><br />
 <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
-  <img src="https://img.shields.io/badge/PGP_Public_Key-ENCRYPTED-2C3E50?style=flat-square&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
+  <img src="https://img.shields.io/badge/PGP_Public_Key-2B3138?style=flat-square&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
 </details>
 
@@ -193,8 +194,7 @@ For anything sensitive, please encrypt it with my PGP key.
 ---
 
 <div align="center">
-  <sub>✨ A huge thank you to <b>Matěj Štágl</b> — <a href="https://github.com/lofcz">lofcz</a> — for introducing me to the world of programming. Forever grateful! 🦁</sub>
+  <sub>A huge thank you to <b>Matěj Štágl</b> — <a href="https://github.com/lofcz">lofcz</a> — for introducing me to the world of programming. Forever grateful.</sub>
   <br/>
   <img width="130" height="100" alt="lion cub" src="https://github.com/user-attachments/assets/ff5013aa-e984-42cf-ba4f-b6e7b36741a2" />
 </div>
-
