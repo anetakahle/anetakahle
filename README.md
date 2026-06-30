@@ -1,28 +1,32 @@
-<!-- Header Images - Centered -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="240" alt="Profile Visual 1" />
-  <img src="https://github.com/user-attachments/assets/f5fc24f9-c4a1-4a69-a201-775bc7d0e9c4" height="240" alt="Profile Visual 2" />
-</div>
-
-<br />
-
+<!-- ─────────────────────────  HERO  ───────────────────────── -->
 <div align="center">
 
-### Aneta Kahleová
+<img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="260" alt="Aneta Kahleová" />
 
-<sub>FULL-STACK AI/ML ENGINEER &nbsp;·&nbsp; CONTRACTOR</sub>
+<br /><br />
+
+# Aneta Kahleová
+
+<sub>FULL-STACK AI/ML ENGINEER &nbsp;·&nbsp; CONTRACTOR &nbsp;·&nbsp; MODEL &amp; ENTREPRENEUR</sub>
 
 <br />
 
 *Translating human chaos into robot instructions.*
 
-<br/>
+<br />
 
-I am a **Full-stack AI Engineer** and **Data Analyst** with a strong passion for **Automation** and **Agentic Workflows**.
+> I build **autonomous AI agents** and **agentic-RAG** systems in **.NET** and **Python**.
+> Currently **AI Tech Lead at OKlab** (OKsystem), shipping a production RAG chatbot —
+> launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
 
-My work bridges the gap between raw data and intelligent decision-making. I specialize in **agent orchestration** and **agentic RAG** — building **autonomous agents** in **.NET** with **LLMtornado** and graph-based workflows with **LangGraph**, and mining data from the web via **Playwright**. I love turning chaotic data into structured insights.
+<br />
 
-Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built a chatbot launching soon on <a href="https://www.okskoleni.cz/en">okskoleni.cz</a>.
+<a href="mailto:aneta.kahleova@gmail.com">
+  <img src="https://img.shields.io/badge/Available_for_work-2B3138?style=flat-square&logo=maildotru&logoColor=white" alt="Available for work" />
+</a>
+<a href="https://www.linkedin.com/in/aneta-kahle/">
+  <img src="https://img.shields.io/badge/LinkedIn-2B3138?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
@@ -30,14 +34,13 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 
 ---
 
+<!-- ─────────────────────────  DETAILS  ───────────────────────── -->
 <div align="center">
 <details>
-<summary><h3>What I Do</h3></summary>
+<summary><b>What I Do</b></summary>
 <br/>
   <i>I work primarily on enterprise-grade private repositories (ComplianceAI, SQL Agents, Knowledge Bots).</i>
 <br /><br />
-
-<div align="center">
 
 **Agent Orchestration**
 <br/>Designing autonomous systems where AI agents interact, plan, and execute tasks — built in .NET with **LLMtornado** and graph-based workflows with **LangGraph**.
@@ -83,28 +86,22 @@ Currently **AI Tech Lead at OKlab** (a division of **OKsystem**), where I built 
 <img src="https://custom-icon-badges.demolab.com/badge/MSSQL-2B3138?style=flat-square&logo=mssqlserver-white&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-2B3138?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
-</div>
+<br /><br />
 
-<br />
-
-<div align="center">
-  <sub><b>Plus the everyday toolbox:</b></sub><br/>
-  <img src="https://img.shields.io/badge/Git-2B3138?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2B3138?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-2B3138?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure-2B3138?style=flat-square&logo=msazure&logoColor=white" />
-</div>
+<sub><b>Plus the everyday toolbox:</b></sub><br/>
+<img src="https://img.shields.io/badge/Git-2B3138?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2B3138?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-2B3138?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Azure-2B3138?style=flat-square&logo=msazure&logoColor=white" />
 
 </details>
 </div>
 
 <br />
 
----
-
 <div align="center">
 <details>
-<summary><h3>Selected Projects</h3></summary>
+<summary><b>Selected Projects</b></summary>
 <br/>
 
 **<a href="https://hanakahleova.com">hanakahleova.com</a>**
@@ -122,11 +119,9 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 
 <br />
 
----
-
 <div align="center">
 <details>
-<summary><h3>More about Aneta</h3></summary>
+<summary><b>More about Aneta</b></summary>
 <br/>
   <img src="rain.gif" width="240" />
   <br/>
@@ -141,21 +136,19 @@ A customer-facing **agentic RAG** chatbot, launching soon on <a href="https://ww
 </details>
 </div>
 
----
-
-### <div align="center">Let's Work Together</div>
+<br />
 
 <div align="center">
-
-I work as a <b>contractor</b>, delivering custom software end-to-end — the project above is one example.
+<details>
+<summary><b>Contact &amp; elsewhere</b></summary>
 <br/>
-<b>Need something built?</b> I'm open to collaboration. Reach out at <code>aneta.kahleova@gmail.com</code>, or find me here:
+
+I work as a <b>contractor</b>, delivering custom software end-to-end. <b>Need something built?</b>
+<br/>
+Reach me at <code>aneta.kahleova@gmail.com</code>, or find me here:
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aneta-kahle/">
-<img src="https://img.shields.io/badge/LinkedIn-2B3138?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aneta.kahleova@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-2B3138?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -172,21 +165,17 @@ I work as a <b>contractor</b>, delivering custom software end-to-end — the pro
   <img src="https://img.shields.io/badge/Anonymous_Message-2B3138?style=flat-square&logo=ghostery&logoColor=white" alt="Anonymous Message" />
 </a>
 
-
 <br /><br />
 
-<details>
-<summary>Secure communication (PGP)</summary>
-<br />
-For anything sensitive, please encrypt it with my PGP key.
-<br /><br />
-<small>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></small>
-<br /><br />
+<sub>🔒 <b>Secure communication (PGP)</b> — for anything sensitive, please encrypt with my key.</sub>
+<br/>
+<sub>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></sub>
+<br/>
 <a href="https://github.com/anetakahle/anetakahle/blob/main/public.asc">
   <img src="https://img.shields.io/badge/PGP_Public_Key-2B3138?style=flat-square&logo=gnu-privacy-guard&logoColor=white" alt="PGP Key" />
 </a>
-</details>
 
+</details>
 </div>
 
 <br />
