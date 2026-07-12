@@ -44,7 +44,7 @@
 
 <br /><br />
 
-<sub>🔒 <b>Secure communication (PGP)</b> — for anything sensitive, please encrypt with my key.</sub>
+<sub>🔒 <b>Secure communication (PGP)</b> - for anything sensitive, please encrypt with my key.</sub>
 <br/>
 <sub>Fingerprint: <code>79C3 F982 36E3 1062 0CC2 EAFE B728 9F5B D3B1 5218</code></sub>
 <br/>
