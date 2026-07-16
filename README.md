@@ -1,7 +1,7 @@
 <!-- ─────────────────────────  IG-STYLE PROFILE HEADER  ───────────────────────── -->
 <div align="center">
 
-<img src="assets/avatar.png" width="150" alt="Aneta Kahleová" />
+<img src="https://github.com/user-attachments/assets/f802caea-46f9-44af-81b9-c223e986f54b" height="240" alt="Aneta Kahleová" />
 
 ### Aneta Kahleová
 
