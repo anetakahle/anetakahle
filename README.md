@@ -12,6 +12,8 @@
 <sub>AI Agents · Context Engineering · LLM · Python · .NET · TypeScript</sub>
 <br/>
 <sub>👩‍💻 Model & Entrepreneur ✨</sub>
+<br/>
+<sub>🌐 Learn more → <a href="https://anetakahleova.com/">anetakahleova.com</a></sub>
 
 <br/>
 
